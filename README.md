@@ -4,7 +4,7 @@
 ### google_calendar_sample
 
 演飾如何透過 Google Developer Console 的 Service Account Credential 來做 Server Side Api
-所以 credentials.json 檔案就是這個的憑證
+所以 credentials.json 檔案就是這個的憑證 ( 要透過 Google Developer Console 生成 )
 
 
 ### nft_crawler_sample
